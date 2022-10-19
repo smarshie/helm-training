@@ -1,0 +1,18 @@
+apiVersion: v1
+entries:
+  assignment4:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-10-19T10:26:15.255972472+01:00"
+    dependencies:
+    - name: tomcat
+      repository: http://charts.bitnami.com/bitnami
+      version: 10.4.7
+    description: A Helm chart for Kubernetes
+    digest: c1d94d80abcd8d5322c0e67702330f4860b246e4d56e9bc651a1d0f65039f0e6
+    name: assignment4
+    type: application
+    urls:
+    - assignment4-0.1.0.tgz
+    version: 0.1.0
+generated: "2022-10-19T10:26:15.249938787+01:00"
